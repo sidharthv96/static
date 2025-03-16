@@ -9,6 +9,8 @@ on:
 
 jobs:
   update-sponsors:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
