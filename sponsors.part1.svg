@@ -71,7 +71,7 @@ text {
   /></svg>
 </a>
 <text x="400" y="190" text-anchor="middle" class="sponsorkit-tier-title">Gold Sponsors</text><a href="http://drawio.com" class="sponsorkit-link" target="_blank" id="jgraph">
-  <text x="400" y="303" text-anchor="middle" class="sponsorkit-name" fill="currentColor">JGraph</text>
+  <text x="400" y="303" text-anchor="middle" class="sponsorkit-name" fill="currentColor">draw.io</text>
   
   <clipPath id="cdd8ff7">
     <rect x="365" y="215" width="70" height="70" rx="7" ry="7" />
